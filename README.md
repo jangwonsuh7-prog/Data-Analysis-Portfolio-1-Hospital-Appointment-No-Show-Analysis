@@ -6,6 +6,7 @@ The analysis shows that waiting time is the strongest factor—patients waiting 
 
 Recommendations focus on improving scheduling efficiency to reduce waiting times, optimizing resources, and targeted interventions for high-risk patient groups.
 
+
 ### Business Problem :
 
 Missed appointments (no-shows) present a major challenge for healthcare providers, impacting operational efficiency, revenue, and patient outcomes. Analysis of this **mock hospital dataset** reveals a no-show rate of **approximately 20%**. This project aims to explore the underlying patterns and key factors contributing to no-shows, and to develop actionable, data-driven strategies to reduce their occurrence
