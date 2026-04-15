@@ -16,9 +16,11 @@ Missed appointments (no-shows) present a major challenge for healthcare provider
 
 ### Results :
   1. Pearson correlation and Chi-square tests reveal a very weak association between patient factors (scholarship, hypertension, diabetes, alcohol use, handicap, and gender) and no-show rates. Interestingly, the dataset also shows that patients who received SMS reminders prior to their appointments had higher no-show rates
-  2. A key driver of no-show rates identified in the analysis is **waiting time (Wait Days)**, defined as the difference between the appointment date and the scheduled date. **Patients with a waiting time of over one week show a 150% higher no-show rate compared to those with less than one week**
-  3. 
+  2. A key driver of no-show rates identified in the analysis is **Waiting time (Wait Days)**, defined as the difference between the appointment date and the scheduled date. Patients with a waiting time of over one week show a **150% higher no-show rate** compared to those with less than one week
+  3. Another contributing factor identified in the analysis is **Age**. Patients aged 40 and below show a **33% higher no-show rate** compared to those over 40
 
+### Business Recommendations :
+  1. 
 
 
 
