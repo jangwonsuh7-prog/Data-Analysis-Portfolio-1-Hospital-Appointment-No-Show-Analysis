@@ -7,7 +7,7 @@ Missed appointments (no-shows) present a major challenge for healthcare provider
 
 ### Methodology :
   1. Data cleaning and data management in Python to ensure data integrity, consistency, and usability
-  2. Conducted Pearson correlation and Chi-square tests in Python to identify correlation between key variables and appointment no-show rates
+  2. Conducted Pearson correlation and Chi-square tests in Python to identify correlation between key variables and no-show rates
   3. 
 
 
