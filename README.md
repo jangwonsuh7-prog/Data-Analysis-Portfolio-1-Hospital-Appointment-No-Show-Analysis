@@ -1,6 +1,6 @@
 # Portfolio 1-Hospital Appointment No-Show Analysis
 ## Executive Summary :
-This project analyzes hospital appointment no-shows (20% rate) to identify key drivers and improve attendance.
+This project analyzes hospital appointment no-shows (20% rate) to identify key drivers and improve attendance using mock hospital appointment data.
 
 The analysis shows that waiting time is the strongest factor—patients waiting over one week have 150% higher no-show rates. Younger patients (≤40) also show higher no-show rates (33%), while clinical and demographic factors have minimal impact. SMS reminders unexpectedly correlate with higher no-shows.
 
