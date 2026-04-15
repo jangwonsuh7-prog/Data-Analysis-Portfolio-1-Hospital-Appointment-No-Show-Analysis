@@ -22,7 +22,7 @@ Missed appointments (no-shows) present a major challenge for healthcare provider
 ### Business Recommendations :
 Based on the analysis and findings, I recommend the following:
 
-  1. Priotize scheduling efficiency to reduce appointment waiting times
+  1. Prioritize scheduling efficiency to reduce appointment waiting times
   2. Revamp scheduling system by introducing a waitlist system to backfill cancellations or overbooking strategies
   3. Optimize staff and provider capacity to reduce scheduling delays
   4. Introduce targeted interventions for younger patients (≤40), such as personalized reminders and easy rescheduling options
