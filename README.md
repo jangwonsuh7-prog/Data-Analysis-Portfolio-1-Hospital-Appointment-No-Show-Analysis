@@ -11,7 +11,8 @@ Missed appointments (no-shows) present a major challenge for healthcare provider
   3. Segmentation analysis in SQL to group the dataset into meaningful categories and analyze no-show rates across segments
 
 ### Skills :
-  1. 
+  1. SQL :  Aggregate functions, Data segmentation, Case, Multi-dimensional grouping, Basic data exploration
+  2. Python: Pandas, SciPy, Exploratory data analysis, Correlation analysis, Statistical testing
 
 
 
