@@ -14,6 +14,8 @@ Missed appointments (no-shows) present a major challenge for healthcare provider
   1. SQL :  Aggregate functions, Data segmentation, Case, Multi-dimensional grouping, Basic data exploration
   2. Python: Pandas, SciPy, Exploratory data analysis, Correlation analysis, Statistical testing
 
+### Results & Business Recommendation :
+
 
 
 
